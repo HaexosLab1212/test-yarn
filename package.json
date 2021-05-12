@@ -11,7 +11,7 @@
     "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "postcss": "^7.0.24"
+    "postcss": "^8.2.10"
   }
 }
 
